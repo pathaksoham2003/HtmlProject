@@ -1,0 +1,12 @@
+th{
+    color:rgb(0, 0, 0);
+    background-color:rgba(134, 175, 221, 0.555);
+    height:50px;
+    width: 750px;
+}
+td{
+    background-color: rgba(146, 226, 213, 0.377);
+}
+#a{
+    background-color:rgb(30, 42, 75);
+}
